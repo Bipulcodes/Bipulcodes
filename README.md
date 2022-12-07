@@ -1,6 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Bipul, Bipulcodes</h1>
 
 ![github_cover_banner](https://user-images.githubusercontent.com/78341798/194530701-85313fde-3a37-40b9-9d82-77a4e41da85a.gif)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bipulcodes&theme=onedark_duo)(https://git.io/streak-stats)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, athletic full stack software developer and computer science student. I love learning new programming languages and technologies. I also love to help people to learn programming.
@@ -65,7 +66,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
- [[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bipulcodes&theme=onedark_duo)](https://git.io/streak-stats)
 </div>
 <br>
 <br>
