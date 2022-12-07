@@ -65,7 +65,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bipulcodes&theme=onedark_duo)](https://git.io/streak-stats)
+ [[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bipulcodes&theme=onedark_duo)](https://git.io/streak-stats)
 </div>
 <br>
 <br>
