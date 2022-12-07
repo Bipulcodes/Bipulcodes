@@ -68,4 +68,4 @@
 </div>
 <br>
 <br>
-[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=Bipulcodes&theme=dark)](https://github.com/Bipulcodes/github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Bipulcodes&theme=dark)](https://github.com/Bipulcodes/github-readme-streak-stats))
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bipulcodes&theme=onedark_duo)](https://git.io/streak-stats)
