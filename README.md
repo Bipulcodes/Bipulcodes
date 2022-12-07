@@ -1,7 +1,7 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Bipul, Bipulcodes</h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 **Bipul**</h1>
 
 ![github_cover_banner](https://user-images.githubusercontent.com/78341798/194530701-85313fde-3a37-40b9-9d82-77a4e41da85a.gif)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bipulcodes&theme=onedark_duo)
+<div align="center">![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bipulcodes&theme=onedark_duo)</div>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, athletic full stack software developer and computer science student. I love learning new programming languages and technologies. I also love to help people to learn programming.
