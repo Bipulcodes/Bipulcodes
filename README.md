@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFC;"> 👨🏻‍💻 Bipul</h1>
 
-[![github_cover_banner](<iframe src="https://giphy.com/embed/SS8CV2rQdlYNLtBCiF" width="480" height="472" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF">via GIPHY</a></p>)]
+[![github_cover_banner]()
                                [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bipulcodes&theme=python-dark&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D&sideLabels=15774B)](https://git.io/streak-stats)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
