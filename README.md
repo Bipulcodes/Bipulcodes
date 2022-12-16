@@ -1,6 +1,4 @@
 <h1 style="color: #44AEFC;"> 👨🏻‍💻Bipul</h1>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bipulcodes&theme=python-dark&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D&sideLabels=15774B)]
-
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, athletic full stack software developer and computer science student. I love learning new programming languages and technologies. I also love to help people to learn programming.
 <br>
