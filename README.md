@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bipulcodes&show_icons=true&locale=en" alt="bipulcodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipulcodes&" alt="bipulcodes" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Bipulcodes&theme=java-dark&border_radius=7.7" alt="bipulcodes" /></p>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
