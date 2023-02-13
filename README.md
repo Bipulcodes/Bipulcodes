@@ -27,7 +27,7 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com/en" target="_blank" rel="noreferrer">
       <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>    
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
