@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipulcodes&label=Profile%20views&color=0e75b6&style=flat" alt="bipulcodes" /> </p>
 
-- 📫 How to reach me--? **mailofbipul@gmail.com**
+- 📫 How to -> reach me--? **mailofbipul@gmail.com**
 
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
